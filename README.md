@@ -1,5 +1,5 @@
 # Simple-Facebook-app-with-OAuth  
-Application concepts explained -> [nuchtheseeker.wordpress.com](https://nuchtheseeker.wordpress.com/)  
+Application concepts explained -> [secbubble.wordpress.com](https://secbubble.wordpress.com/)  
 ## Getting Started  
 - Clone or Download the project  
 - Add your "App id" and "App secret" to index.php file
